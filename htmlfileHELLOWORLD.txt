@@ -1,0 +1,31 @@
+<html>
+   <head>
+       <style>
+	       .header-section{
+		       margin: auto;
+			   text-align: center;
+			   background-color: red;
+			   color: black;
+			   width: 70%;
+			   border: 2px solid black; 
+			   box-shadow: 12px 12px 12px 12px;
+			}
+			.announcement-section{
+			    margin: auto;
+				text-align: center;
+				margin-top: 60px;
+				width: 30%
+				background-color: blue;
+				color: white;
+			}
+        </style>
+    </head>		
+	<body>
+	    <div class = "header-section">
+		    <h1>Hello World from the OpsWorks Stack for the case study</h1>
+        </div>
+        <div class="announcement-section">
+            <h2>MODULE 9 CASE STUDY</h2>
+        </div>
+    </body>
+</html>	
